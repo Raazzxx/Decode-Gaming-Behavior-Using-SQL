@@ -1,6 +1,6 @@
 # Decode-Gaming-Behavior-Using-SQL
 
- # 1Project Overview
+ # Project Overview
    >This SQL project is dedicated to decoding gaming behavior, leveraging comprehensive datasets to extract insights crucial for game design, user experience optimization, 
    and targeted marketing strategies.
 
