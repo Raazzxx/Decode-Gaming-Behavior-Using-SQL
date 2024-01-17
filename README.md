@@ -13,7 +13,7 @@
  - Player Behavior analysis
 
  # Data Source
-   The project utilizes an extensive gaming dataset, encompassing player interactions, in-game purchases, and session logs. The dataset is available in the 'data' directory.
+   The project utilizes an extensive gaming dataset, encompassing player interactions, in-game purchases, and session logs. The dataset is available in the 'Gaming dataset' directory.
 
  # SQL Queries and Analysis
    1. Player Engagement Analysis
